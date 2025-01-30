@@ -2,8 +2,6 @@
 
 <p align="center">
 Projeto de mentoria exclusiva na prática <br/>
-<p align="center">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
 
 ## 🚀 Tecnologias
 
