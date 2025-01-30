@@ -8,7 +8,6 @@ Projeto de mentoria exclusiva na prática <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
